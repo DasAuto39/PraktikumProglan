@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1715941111 source:c:\users\akhmad\desktop\modul proglan\p1_proglan\main.cpp
+	<iostream>
+	<string>
+
+1716463962 source:c:\users\akhmad\desktop\praktikum proglan\praktikumproglan\p1_proglan\main.cpp
+	<iostream>
+	<string>
+
